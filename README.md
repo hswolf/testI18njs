@@ -1,0 +1,1 @@
+# testI18njs
